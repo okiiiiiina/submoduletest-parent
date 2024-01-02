@@ -1,3 +1,6 @@
 [submodule "child-1"]
 	path = child-1
 	url = https://github.com/okiiiiiina/submoduletest-child-1.git
+[submodule "child-2"]
+	path = child-2
+	url = https://github.com/okiiiiiina/submoduletest-child-2.git
